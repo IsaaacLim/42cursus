@@ -20,7 +20,7 @@
 |        | [**CPP Module 04**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/04) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2004) | 2022-01-07 |
 |        | [**CPP Module 05**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/05) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2005) | 2022-01-10 |
 |        | [**CPP Module 06**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/06) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2006) | 2022-01-27 |
-|        | [**CPP Module 07**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/07) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2007) |            |
+|        | [**CPP Module 07**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/07) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2007) | 2022-01-27 |
 |        | [**CPP Module 08**](https://github.com/IsaaacLim/42cursus_05_CPP_Modules/tree/main/Modules/08) |   C++    | ![](https://badge42.herokuapp.com/api/project/jinlim/CPP%20Module%2008) |            |
 |        | [**NetPractice**](https://github.com/IsaaacLim/42cursus_05_NetPractice)                        |  _N/A_   |    ![](https://badge42.herokuapp.com/api/project/jinlim/NetPractice)    | 2022-01-14 |
 |        | [**miniRT**](https://github.com/IsaaacLim/42cursus_05_miniRT)                                  |    C     |      ![](https://badge42.herokuapp.com/api/project/jinlim/miniRT)       |            |
